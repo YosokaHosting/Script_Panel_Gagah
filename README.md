@@ -24,7 +24,7 @@
 - [`Saweria`](https://saweria.co/yosoka)
 - [`All payment`](https://telegra.ph/YosokaHosting-07-18)
 - [`Payment Ovo`](https://telegra.ph/Yosoka---Ovo-07-18)
-- [`Payment Dana`](https://telegra.ph/Yosoka---Dana-07-18
+- [`Payment Dana`](https://telegra.ph/Yosoka---Dana-07-18)
 - [`Payment Gopay`](https://telegra.ph/YosokaHosting-07-18-2)
 
 <p align="left">
@@ -37,3 +37,9 @@ Menerima Nope / Nomor</p>
 
 - [`1st GC LADANG`](https://chat.whatsapp.com/EOBISDYBxalCAhhhuV7oEH)
 - [`2nd GC STOK`](https://chat.whatsapp.com/DkvMzutYowN8L6urqnucgy)
+
+##```CONTOH PANEL```
+<h1 align="center">CONTOH PANEL NYA<br></h1>
+<p align="center">
+<img src="https://i.ibb.co/R4MdBs7/Screenshot-20220809-231312.jpg" alt="animated" width="540" height="280" />
+</p>
