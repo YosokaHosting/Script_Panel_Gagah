@@ -44,3 +44,5 @@ Menerima Nope / Nomor</p>
 <p align="center">
 <img src="https://i.ibb.co/92y1zNB/Screenshot-20220810-012127.jpg" alt="animated" width="540" height="600" />
 </p>
+<a JANGGAN LUPA KASIH RATE😘😱/>
+
