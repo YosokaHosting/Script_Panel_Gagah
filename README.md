@@ -1,4 +1,3 @@
-# Script_Panel_Gagah
 <h1 align="center">Script Panel<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/X2HcR62/Screenshot-20220809-221747-1.jpg" alt="animated" width="540" height="280" />
