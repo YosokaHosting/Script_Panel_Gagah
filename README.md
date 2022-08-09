@@ -38,7 +38,7 @@ Menerima Nope / Nomor</p>
 - [`1st GC LADANG`](https://chat.whatsapp.com/EOBISDYBxalCAhhhuV7oEH)
 - [`2nd GC STOK`](https://chat.whatsapp.com/DkvMzutYowN8L6urqnucgy)
 
-##```CONTOH PANEL```
+## ```CONTOH PANEL```
 <h1 align="center">CONTOH PANEL NYA<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/R4MdBs7/Screenshot-20220809-231312.jpg" alt="animated" width="540" height="600" />
