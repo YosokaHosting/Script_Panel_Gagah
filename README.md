@@ -28,8 +28,7 @@
 - [`Payment Gopay`](https://telegra.ph/YosokaHosting-07-18-2)
 
 <p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
+Scan qr code from the above button, u can pay through Gopay , Dana , Ovo , Alpayment </p>
 <p align="left"> Tidak
 Menerima Nope / Nomor</p>
 
