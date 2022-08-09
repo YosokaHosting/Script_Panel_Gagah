@@ -41,3 +41,6 @@ Menerima Nope / Nomor</p>
 <p align="center">
 <img src="https://i.ibb.co/R4MdBs7/Screenshot-20220809-231312.jpg" alt="animated" width="540" height="600" />
 </p>
+<p align="center">
+<img src="https://i.ibb.co/92y1zNB/Screenshot-20220810-012127.jpg" alt="animated" width="540" height="600" />
+</p>
