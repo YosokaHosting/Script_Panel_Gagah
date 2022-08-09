@@ -1,0 +1,2 @@
+# Script_Panel_Gagah
+JANGGAN LUPA KASIH RATE
