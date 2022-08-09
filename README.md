@@ -41,5 +41,5 @@ Menerima Nope / Nomor</p>
 ##```CONTOH PANEL```
 <h1 align="center">CONTOH PANEL NYA<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/R4MdBs7/Screenshot-20220809-231312.jpg" alt="animated" width="540" height="280" />
+<img src="https://i.ibb.co/R4MdBs7/Screenshot-20220809-231312.jpg" alt="animated" width="540" height="600" />
 </p>
